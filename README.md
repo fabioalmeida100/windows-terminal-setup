@@ -13,7 +13,7 @@ Here, you can see my Windows Terminal Setup. If you want use it, you need copy a
 ## Requirements
 
 * [Windows 10 or 11](https://www.microsoft.com/en-us/windows/download)
-* [Windows Terminal](https://www.microsoft.com/en-us/windows/terminal)
+* [Windows Terminal](https://docs.microsoft.com/pt-br/windows/terminal/install)
 * [Git Bash](https://git-scm.com/download/win)
 
 ## Backgrond image
